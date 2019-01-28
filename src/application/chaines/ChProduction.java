@@ -1,7 +1,7 @@
 package application.chaines;
 
 
-import elements.*;
+import application.elements.*;
 import java.io.*;
 import java.lang.*;
 import java.util.*;
